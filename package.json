@@ -1,5 +1,5 @@
 {
-  "name": "your-app-name",
+  "name": "nightreign-helper",
   "homepage": "https://havenfricke.github.io/Nightreign-Helper/",
   "scripts": {
     "dev": "vite",
