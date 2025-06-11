@@ -6,7 +6,7 @@ import StuffPage from './Pages/StuffPage.jsx';
 
 export const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/Nightreign-Helper/",
       element: <App />,
       errorElement: <ErrorPage />,
       children: [
