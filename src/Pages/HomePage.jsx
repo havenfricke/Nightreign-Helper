@@ -67,7 +67,7 @@ const timeline = [
     label: "Exploration",
     time: 1290,
     color: "green",
-    tasks: ["No more than 3 major field bosses", "Center Castle Top", "Locations of interest (Weakness damage type)"]
+    tasks: ["No more than 3 major field bosses", "Smithing Stones", "Locations of interest (Weakness damage type)"]
   },
   {
     label: "30 second warning before start of close",
