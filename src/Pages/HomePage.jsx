@@ -16,7 +16,7 @@ const timeline = [
     tasks: ["Center Castle Bottom", "Locations of interest (Non-weakness damage type)"]
   },
   {
-    label: "1st circle starts closing",
+    label: "1st circle closing",
     time: 270,
     color: "red",
     tasks: ["Center Castle Bottom", "Locations of interest (Non-weakness damage type)"]
@@ -34,7 +34,7 @@ const timeline = [
     tasks: ["Finish current activities", "Farm runes on outer edge of closing circle"]
   },
   {
-    label: "2nd circle starts closing",
+    label: "2nd circle closing",
     time: 660,
     color: "red",
     tasks: ["Finish current activities", "Farm runes on outer edge of closing circle"]
@@ -58,13 +58,13 @@ const timeline = [
     tasks: ["No more than 3 major field bosses", "Center Castle Top", "Locations of interest (Weakness damage type)"]
   },
   {
-    label: "1st circle starts closing",
+    label: "1st circle closing",
     time: 1110,
     color: "red",
     tasks: ["No more than 3 major field bosses", "Center Castle Top", "Locations of interest (weakness damage type)"]
   },
   {
-    label: "1st circle fully closed",
+    label: "Exploration",
     time: 1290,
     color: "green",
     tasks: ["No more than 3 major field bosses", "Center Castle Top", "Locations of interest (Weakness damage type)"]
@@ -76,7 +76,7 @@ const timeline = [
     tasks: ["Finish current activities", "Smithing Stones", "Locations of interest (Weakness damage type)"]
   },
   {
-    label: "2nd circle starts closing",
+    label: "2nd circle closing",
     time: 1500,
     color: "red",
     tasks: ["Finish current activities", "Smithing Stones", "Farm runes on outer edge of closing circle"]
